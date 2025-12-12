@@ -1,0 +1,42 @@
+.all{
+    background-color: rgb(85, 85, 85);
+    text-align: center;
+    align-items: center;
+}
+.heading{
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    font-weight:bold;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 30px;
+    box-shadow: 5px;
+}
+.links{
+    font-size: x-large;
+    color: rgb(117, 202, 241);
+    font-weight: bold;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.link-1{
+    text-align: right;
+    color: hsl(0, 76%, 77%);
+}
+.link-2{
+    text-align: left;
+    color: rgb(241, 153, 153);
+}
+.box{
+    margin: 10px;
+    border: 5px solid rgb(241, 153, 153);
+    padding: 5px;
+    color: rgb(241, 153, 153);
+}
+.list{
+    text-align: left;
+    align-items: flex-start flex-end;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
